@@ -1,5 +1,5 @@
  /*
-  * All grid-shape algorithms (notably all code in the "geometry" folder)
+  * All grid-shape algorithms
   * are courtesy of Red Blob Games
   * at redblobgames.com
   *
