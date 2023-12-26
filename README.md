@@ -2,7 +2,7 @@
 
 > This project is inspired by [Sigil Scribe](https://www.sigilscribe.me/).
 
-Sigil Scrivener is a program takes text and transforms it into a sigil.
+Sigil Scrivener is a program takes text and transforms it into a sigil. It is currently unfinished, but is still usable.
 
 ## Examples
 
